@@ -1,4 +1,4 @@
-## Hey! I'm Oli, a software developer based in London 👋
+## Hey! I'm Oli - a software developer based in London. 👋
 <br>
 🌱 I’m currently learning Golang, Python and Javascript.<br>
 🏗️ Right now, I'm working on my portfolio.<br>
