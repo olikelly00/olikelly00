@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 - 🌱 I’m currently learning Golang, Python and Javascript. 
 - 🏗️ Right now, I'm working on my portfolio.
 - 🎓 I'm also a technical coach with TechMap, a platform making the tech world accessible for people without a technical background. 
@@ -11,4 +11,3 @@
 
 
 
--->
