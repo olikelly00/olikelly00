@@ -4,7 +4,7 @@
 🏗️ Right now, I'm working on my portfolio.<br>
 🎓 I'm also a technical coach with [TechMap](techmap.app), a platform making the tech world accessible for people without a technical background.<br>
 😄 Pronouns: He/Him/His 🏳️‍🌈<br>
-⚡ Fun fact: I once taught English in China, and I was gifted paper mache version of my head. It was both deeply touching and a bit sinister.<br>
+⚡ Fun fact: I once taught English in China, and I was gifted paper mache version of my head. It was both deeply touching and a bit sinister.<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olikelly00)](https://github.com/anuraghazra/github-readme-stats)
 <br>
