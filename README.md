@@ -1,5 +1,5 @@
 ## Hey! I'm Oli, a software developer based in London 👋
-
+<br>
 🌱 I’m currently learning Golang, Python and Javascript.<br><br>
 🏗️ Right now, I'm working on my portfolio.<br><br>
 🎓 I'm also a technical coach with [TechMap](techmap.app), a platform making the tech world accessible for people without a technical background.<br><br>
