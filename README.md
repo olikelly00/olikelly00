@@ -1,10 +1,10 @@
 ## Hey! I'm Oli, a software developer based in London 👋
 
-🌱 I’m currently learning Golang, Python and Javascript. 
-🏗️ Right now, I'm working on my portfolio.
-🎓 I'm also a technical coach with [TechMap](techmap.app), a platform making the tech world accessible for people without a technical background. 
-😄 Pronouns: He/Him/His 🏳️‍🌈
-⚡ Fun fact: I taught English in China, and I was gifted paper mache version of my head. It was both deeply touching and a bit sinister.
+🌱 I’m currently learning Golang, Python and Javascript.<br>
+🏗️ Right now, I'm working on my portfolio.<br>
+🎓 I'm also a technical coach with [TechMap](techmap.app), a platform making the tech world accessible for people without a technical background.<br>
+😄 Pronouns: He/Him/His 🏳️‍🌈<br>
+⚡ Fun fact: I once taught English in China, and I was gifted paper mache version of my head. It was both deeply touching and a bit sinister.
 
 
 
